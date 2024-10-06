@@ -23,8 +23,8 @@ body {
 
 #titlebar {
     position: fixed;
-    border-bottom: solid 1px #d2d2d2;
-    background-color: #ffffff;
+    border-bottom: solid 1px hsl(0, 0%, 82%);
+    background-color: rgba(255, 255, 255, 0.7);
     width: calc(100% - 60px);
     font-size: 20px;
     -webkit-box-shadow: 2px 42px 76px 6px rgba(0, 0, 0, 0.1);
@@ -35,6 +35,8 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 15px 30px;
+    -webkit-backdrop-filter: blur(25px);
+    backdrop-filter: blur(25px);
 }
 
 #logosection {
@@ -123,6 +125,7 @@ body {
 
 .section {
     margin: 100px 200px;
+
 }
 
 .section .head {
@@ -158,6 +161,10 @@ body {
     display: flex;
     flex-direction: row;
     gap: 20px;
+    padding-bottom: 25px;
+    overflow: scroll;
+    /* box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.2) inset, -12px 0 8px -4px rgba(31, 73, 125, 0.2) inset; */
+    /* box-shadow: 0 9px 0px 0px white inset, 0 -9px 0px 0px white inset, 12px 0 15px -4px rgba(31, 73, 125, 0.2) inset, -12px 0 15px -4px rgba(31, 73, 125, 0.2) inset; */
 }
 
 .card {
@@ -165,6 +172,7 @@ body {
     flex-direction: column;
     max-width: 250px;
     gap: 10px;
+    z-index: -1;
 }
 
 .desc a {
@@ -217,7 +225,7 @@ footer {
 .services {
     display: flex;
     flex-direction: column;
-
+    margin-right: 200px;
 }
 
 .services a {
