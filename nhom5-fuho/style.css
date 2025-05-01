@@ -1,0 +1,905 @@
+.website-prod {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    gap: 31px;
+    padding: 0px 25px;
+    position: relative;
+    background-color: #e2ebd1;
+}
+
+.navbar {
+    width: 1330px !important;
+    position: sticky !important;
+}
+
+.website-prod .frame {
+    display: flex;
+    width: 100%;
+    height: 68px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 23px 0px;
+    position: relative;
+}
+
+.website-prod .div-wrapper {
+    display: flex;
+    width: 83px;
+    height: 29px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px 37px;
+    position: relative;
+    margin-top: -3.50px;
+    margin-bottom: -3.50px;
+    background-color: #262626;
+}
+
+.website-prod .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -8.00px;
+    margin-bottom: -6.00px;
+    margin-left: -27.50px;
+    margin-right: -27.50px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 700;
+    color: #e2ebd1;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.website-prod .div {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.website-prod .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Wix Madefor Display";
+    font-weight: 700;
+    color: #262626;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .vector {
+    position: relative;
+    width: 11px;
+    height: 11px;
+}
+
+.website-prod .frame-2 {
+    display: flex;
+    flex-direction: column;
+    width: 1310px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.website-prod .frame-3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.website-prod .t-t-NG {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 600;
+    color: #262626;
+    font-size: 64px;
+    letter-spacing: -2.56px;
+    line-height: normal;
+}
+
+.website-prod .g-p-ceo-c-a-ch-ng-t-wrapper {
+    display: flex;
+    width: 420px;
+    height: 46px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    border-radius: 99px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.website-prod .g-p-ceo-c-a-ch-ng-t {
+    position: relative;
+    width: fit-content;
+    margin-top: -3.50px;
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: -0.96px;
+    line-height: normal;
+}
+
+.website-prod .p {
+    position: relative;
+    width: 236px;
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    color: #888b80;
+    font-size: 18px;
+    letter-spacing: -1.26px;
+    line-height: normal;
+}
+
+.website-prod .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 700;
+    color: #262626;
+    font-size: 110px;
+    text-align: right;
+    letter-spacing: -4.40px;
+    line-height: normal;
+}
+
+.website-prod .frame-4 {
+    display: flex;
+    width: 1310px;
+    height: 442px;
+    align-items: flex-end;
+    position: relative;
+}
+
+.website-prod .subtract {
+    position: relative;
+    width: 1310px;
+    height: 442px;
+    object-fit: cover;
+}
+
+.website-prod .group {
+    position: absolute;
+    width: 186px;
+    height: 93px;
+    top: 349px;
+    left: 0;
+}
+
+.website-prod .group-2 {
+    position: absolute;
+    width: 106px;
+    height: 57px;
+    top: 0;
+    left: 0;
+}
+
+.website-prod .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 600;
+    color: #93988b;
+    font-size: 24px;
+    letter-spacing: -0.96px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.website-prod .text-wrapper-5 {
+    position: absolute;
+    top: 22px;
+    left: 0;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: -1.12px;
+    line-height: normal;
+}
+
+.website-prod .text-wrapper-6 {
+    position: absolute;
+    width: 184px;
+    top: 57px;
+    left: 0;
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    color: #888c81;
+    font-size: 16px;
+    letter-spacing: -0.64px;
+    line-height: normal;
+}
+
+.website-prod .frame-5 {
+    display: flex;
+    flex-direction: column;
+    width: 298px;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 19px;
+    padding: 0px 25px;
+    position: absolute;
+    top: 369px;
+    left: 1012px;
+}
+
+.website-prod .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Playwrite US Trad-Regular", Helvetica;
+    font-weight: 400;
+    color: #e2ebd1;
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: -0.96px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.website-prod .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-left: -7.00px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 800;
+    color: #e2ebd1;
+    font-size: 24px;
+    letter-spacing: -0.96px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.website-prod .group-wrapper {
+    position: relative;
+    width: 1310px;
+    height: 442px;
+    background-image: url(./img/rotate-0.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.website-prod .group-3 {
+    position: relative;
+    width: 186px;
+    height: 77px;
+    top: 365px;
+    left: 1126px;
+}
+
+.website-prod .group-4 {
+    position: absolute;
+    width: 106px;
+    height: 57px;
+    top: 0;
+    left: 82px;
+}
+
+.website-prod .text-wrapper-9 {
+    position: absolute;
+    top: 0;
+    left: 72px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 600;
+    color: #93988b;
+    font-size: 24px;
+    letter-spacing: -0.96px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.website-prod .text-wrapper-10 {
+    position: absolute;
+    top: 22px;
+    left: 0;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 28px;
+    text-align: right;
+    letter-spacing: -1.12px;
+    line-height: normal;
+}
+
+.website-prod .text-wrapper-11 {
+    position: absolute;
+    width: 184px;
+    top: 57px;
+    left: 0;
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    color: #888c81;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: -0.64px;
+    line-height: normal;
+}
+
+.website-prod .overlap-group-wrapper {
+    position: relative;
+    width: 767px;
+    height: 121px;
+}
+
+.website-prod .overlap-group {
+    position: relative;
+    width: 765px;
+    height: 121px;
+}
+
+.website-prod .rectangle {
+    position: absolute;
+    width: 765px;
+    height: 59px;
+    top: 62px;
+    left: 0;
+    background-color: #262626;
+}
+
+.website-prod .v-i-c-ng-ngh-ch-ng-t {
+    position: absolute;
+    top: 0;
+    left: 14px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .span {
+    color: #000000;
+}
+
+.website-prod .text-wrapper-12 {
+    color: #e2ebd1;
+}
+
+.website-prod .frame-6 {
+    display: flex;
+    height: 240px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+}
+
+.website-prod .frame-7 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 3px;
+    position: relative;
+    align-self: stretch;
+    flex: 0 0 auto;
+}
+
+.website-prod .div-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .text-wrapper-13 {
+    color: #93988b;
+}
+
+.website-prod .text-wrapper-14 {
+    color: #000000;
+    font-size: 24px;
+}
+
+.website-prod .div-3 {
+    position: relative;
+    width: 266px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 500;
+    color: #93988b;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .text-wrapper-15 {
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 500;
+    color: #93988b;
+    font-size: 16px;
+    letter-spacing: 0;
+}
+
+.website-prod .text-wrapper-16 {
+    text-decoration: underline;
+}
+
+.website-prod .element-c-ng-ngh-l-m-ch {
+    position: relative;
+    width: 266px;
+    margin-top: -1.00px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .frame-8 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.website-prod .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .frame-9 {
+    display: flex;
+    width: 568px;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    background-color: #262626;
+}
+
+.website-prod .text-wrapper-18 {
+    position: relative;
+    width: fit-content;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 700;
+    color: #e2ebd1;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .frame-10 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: #e2ebd1;
+}
+
+.website-prod .frame-11 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1195px;
+    align-items: center;
+    gap: 0px 0px;
+    position: relative;
+}
+
+.website-prod .frame-12 {
+    display: flex;
+    flex-direction: column;
+    width: 597px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #262626;
+}
+
+.website-prod .group-5 {
+    position: relative;
+    width: 472px;
+    height: 138px;
+}
+
+.website-prod .tuy-t-v-i-anh-em-t-i {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #e2ebd1;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: 35.4px;
+}
+
+.website-prod .anh-ph-ng-v-nh-l-c {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 28.8px;
+}
+
+.website-prod .text-wrapper-19 {
+    font-weight: 700;
+    color: #e2ebd1;
+}
+
+.website-prod .text-wrapper-20 {
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    color: #7d8373;
+}
+
+.website-prod .text-wrapper-21 {
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #7d8373;
+}
+
+.website-prod .frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 598px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+}
+
+.website-prod .frame-13 {
+    padding: 37px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.website-prod .text-wrapper-22 {
+    position: relative;
+    width: 459px;
+    margin-top: -1.00px;
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: 35.4px;
+}
+
+.website-prod .div-4 {
+    position: relative;
+    width: fit-content;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 28.8px;
+}
+
+.website-prod .text-wrapper-23 {
+    font-weight: 700;
+    color: #000000;
+}
+
+.website-prod .text-wrapper-24 {
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    color: #93988b;
+}
+
+.website-prod .frame-14 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1194px;
+    align-items: center;
+    gap: 0px 0px;
+    position: relative;
+}
+
+.website-prod .frame-15 {
+    display: flex;
+    flex-direction: column;
+    width: 597px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+}
+
+.website-prod .frame-16 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.website-prod .frame-17 {
+    display: flex;
+    flex-direction: column;
+    width: 597px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    background-color: #262626;
+}
+
+.website-prod .frame-18 {
+    justify-content: center;
+    padding: 37px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.website-prod .text-wrapper-25 {
+    position: relative;
+    width: 459px;
+    margin-top: -1.00px;
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #e2ebd1;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: 35.4px;
+}
+
+.website-prod .text-wrapper-26 {
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    color: #7d8374;
+}
+
+.website-prod .frame-19 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 25px 70px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.website-prod .frame-20 {
+    display: flex;
+    width: 1195px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    flex: 0 0 auto;
+    margin-left: -12.50px;
+    margin-right: -12.50px;
+}
+
+.website-prod .frame-21 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.website-prod .PHU-h-LLC-m-t-s-n-ph {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .text-wrapper-27 {
+    font-family: "Wix Madefor Display", Helvetica;
+    font-weight: 600;
+    color: #93988b;
+    font-size: 20px;
+}
+
+.website-prod .frame-22 {
+    display: flex;
+    flex-direction: column;
+    width: 543px;
+    height: 120px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 15px;
+    position: relative;
+}
+
+.website-prod .kh-ng-b-g-i-bom-n-TR {
+    position: relative;
+    align-self: stretch;
+    font-family: "Wix Madefor Text-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .text-wrapper-28 {
+    font-weight: 700;
+}
+
+.website-prod .text-wrapper-29 {
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+}
+
+.website-prod .doanh-tr-i-PHU-h-LLC {
+    position: relative;
+    width: fit-content;
+    font-family: "Wix Madefor Text-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .tri-ph-ng-ph-ng-l-c {
+    position: relative;
+    width: fit-content;
+    font-family: "Wix Madefor Text", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website-prod .text-wrapper-30 {
+    position: relative;
+    width: fit-content;
+    font-family: "Wix Madefor Text-Regular", Helvetica;
+    font-weight: 400;
+    color: #93988b;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+/* Original CSS code */
+
+/* Additional CSS for accessibility and semantic improvements */
+body {
+    font-family: "Wix Madefor Display", sans-serif;
+    line-height: 1.6;
+    color: #262626;
+    background-color: #e2ebd1;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+.website-prod {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .website-prod {
+        padding: 0 15px;
+    }
+
+    .frame-6 {
+        flex-direction: column;
+    }
+
+    .frame-10 {
+        flex-direction: column;
+    }
+
+    .frame-20 {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+/* Focus styles for interactive elements */
+a:focus,
+button:focus {
+    outline: 2px solid #4a90e2;
+    outline-offset: 2px;
+}
+
+/* Improve contrast for better readability */
+.text-wrapper-15,
+.text-wrapper-24,
+.text-wrapper-26,
+.text-wrapper-29 {
+    color: #666;
+}
+
+/* Ensure sufficient color contrast for accessibility */
+.frame-9 {
+    background-color: #1a1a1a;
+}
+
+.text-wrapper-18 {
+    color: #fff;
+}

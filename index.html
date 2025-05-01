@@ -12,6 +12,7 @@
     <h1>Chọn dự án muốn truy cập</h1>
     <div class="choices">
         <a href="sweetery/">Project 1: Sweetery - Tổ 1</a>
+        <a href="nhom5-fuho/">PHU HỒ LLC - Nhóm 5</a>
         <a href="to4/">Project 2: IELTS Nhật Minh - Tổ 4</a>
         <a href="to2/">Project 3: Văn học 12 101 - Tổ 2</a>
     </div>
@@ -32,8 +33,12 @@
 
     .choices {
         display: flex;
+        flex-wrap: wrap;
         flex-direction: row;
         gap: 20px;
+        max-width: 70vw;
+        justify-content: center;
+        align-items: center;
     }
 
     @media screen and (max-width: 650px) {
